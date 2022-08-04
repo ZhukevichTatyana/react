@@ -1,0 +1,21 @@
+.container {
+    width: 1000px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+  }
+   .task-list{
+   
+    font-size: 20px;   
+    
+  } 
+  .container-img {
+    width: 800px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
+   
+  }
+  
